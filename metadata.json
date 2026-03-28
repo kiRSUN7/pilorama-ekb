@@ -1,0 +1,5 @@
+{
+  "name": "Pilorama Ekaterinburg",
+  "description": "Modern industrial e-commerce engine for lumber manufacturing. High-performance, clean design, and real-time volume calculator.",
+  "requestFramePermissions": ["geolocation"]
+}
